@@ -1,3 +1,7 @@
 video call feature release
 bug fix by thamil 
+<<<<<<< HEAD
 current release new code branch3
+=======
+bug fix 2 by thamil
+>>>>>>> branch2
